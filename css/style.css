@@ -7,7 +7,7 @@ h1{
     color: white;
     font-family: 'Oswald', sans-serif;
     font-size: 80px;
-    
+    /*paris*/
 }
 
 h1 a{
@@ -17,7 +17,51 @@ h2{
     color: white;
     font-family: 'EB Garamond', serif;
     font-size: 80px;
+    /*howl*/
+}
 
+h3{
+  color:white;
+  font-family: 'Gravitas One', cursive;
+  font-size: 80px;
+  /*some*/
+}
+
+h4{
+  color:black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80px;
+
+}
+
+h5{
+  color:#E5B397;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80px;
+}
+
+h6{
+  color: #a45546;
+  font-family: 'Playfair Display', serif;
+  font-size: 80px;
+}
+
+h7{
+  color:white;
+  font-family: 'Rock Salt', cursive;
+  font-size: 80px;
+}
+
+h8{
+  color: #f9f1c4;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 80px;
+}
+
+h9{
+  color: #982f2f;
+  font-family: 'Old Standard TT', serif;
+  font-size: 80px;
 }
 
 p{
@@ -63,7 +107,6 @@ span{
 }
 
 ul{
-  style="list-style-type:disc"
   color: #E5B397; 
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
