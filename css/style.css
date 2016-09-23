@@ -68,3 +68,7 @@ ul{
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
 }
+
+ul a{
+  color:#E5B397;
+}
