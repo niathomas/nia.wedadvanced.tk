@@ -1,75 +1,61 @@
-img{
-    min-height:100%;
-    min-width:100%;
-    height:auto;
-    width:auto;
-    position:absolute;
-    top:-100%; bottom:-100%;
-    left:-100%; right:-100%;
-    margin:auto;
-}
-
 body{
   background: #678587;
   padding-top: 10px;
 } 
 
-h1{
+h1 a:link{
     color: white;
     font-family: 'Oswald', sans-serif;
     font-size: 80px;
     /*paris*/
-}
 
-h1 a{
-  color:white;
 }
-h2{
+h2 a:link{
     color: white;
     font-family: 'EB Garamond', serif;
     font-size: 80px;
     /*howl*/
 }
 
-h3{
+h3 a:link{
   color:white;
   font-family: 'Gravitas One', cursive;
   font-size: 80px;
   /*some*/
 }
 
-h4{
+h4 a:link{
   color:black;
   font-family: 'Montserrat', sans-serif;
   font-size: 80px;
 
 }
 
-h5{
+h5 a:link{
   color:#E5B397;
   font-family: 'Montserrat', sans-serif;
   font-size: 80px;
 }
 
-h6{
+h6 a:link{
   color: #a45546;
   font-family: 'Playfair Display', serif;
   font-size: 80px;
 }
 
-h7{
+h7 a:link{
   color:white;
   font-family: 'Rock Salt', cursive;
   font-size: 80px;
 }
 
-h8{
+h8 a:link{
   color: #f9f1c4;
   font-family: 'Permanent Marker', cursive;
   font-size: 80px;
 }
 
-h9{
+h9 a:link{
   color: #982f2f;
   font-family: 'Old Standard TT', serif;
   font-size: 80px;
